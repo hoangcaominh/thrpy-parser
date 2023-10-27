@@ -1,0 +1,22 @@
+{
+  "name": "thrpy-parser",
+  "version": "0.1.0",
+  "description": "Parsing utilities for Touhou Project replay files in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangcaominh/thrpy-parser.git"
+  },
+  "author": "hoangcaominh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hoangcaominh/thrpy-parser/issues"
+  },
+  "homepage": "https://github.com/hoangcaominh/thrpy-parser#readme",
+  "dependencies": {
+    "thrpy-decode": "^0.1.7"
+  }
+}
