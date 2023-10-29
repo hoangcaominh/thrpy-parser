@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/hoangcaominh/thrpy-parser#readme",
   "dependencies": {
+    "dayjs": "^1.11.10",
+    "kaitai-struct": "^0.10.0",
     "thrpy-decode": "^0.1.7"
   }
 }
