@@ -1,6 +1,6 @@
 {
   "name": "thrpy-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parsing utilities for Touhou Project replay files in NodeJS",
   "main": "index.js",
   "types": "index.d.ts",
