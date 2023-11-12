@@ -1,5 +1,3 @@
-export const PARSERS: object
-
 export function parse(replay: Buffer): object
 export function parse06(replay: Buffer): object
 export function parse07(replay: Buffer): object
