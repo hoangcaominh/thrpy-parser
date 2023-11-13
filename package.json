@@ -20,6 +20,9 @@
   "dependencies": {
     "dayjs": "^1.11.10",
     "kaitai-struct": "^0.10.0",
-    "thrpy-decode": "^0.1.8"
+    "thrpy-decode": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
   }
 }
